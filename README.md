@@ -8,9 +8,17 @@
 * git
 * github
 
+## 배포서버환경
+* AWS EC2
+* git, nodejs
+* nginx
+* pm2
+* github actions
+
 
 ## frontend
 * react(+vite)
+
 
 ## backend
 * express
